@@ -51,4 +51,4 @@ SkillSphere is a job listing website created using ReactJS, utilizing React Mate
 
 ## Live Demo
 
-You can view the live version of the project here: [SkillSphere Live Demo](https://skill-sphere-aeojyj2w8-sonali-ss-projects.vercel.app/)
+You can view the live version of the project here: [SkillSphere Live Demo](https://skill-sphere-job-listing.vercel.app/)
